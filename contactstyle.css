@@ -2,7 +2,7 @@ body{
     background-color: rgb(219, 206, 253);
 }
 .image{
-    background-image: url(https://media.licdn.com/dms/image/v2/C511BAQGeRRv7olH_WQ/company-background_10000/company-background_10000/0/1584290303980/aftertutor_cover?e=2147483647&v=beta&t=8YlHqP1nUb2W3hqVd_LDjMzGKlaKI18u1kRitaoHfy0);
+    background-image: url(cover.jpg);
     background-position: center;
     background-size: cover;
     height:50vh;
