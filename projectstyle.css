@@ -4,6 +4,7 @@
     font-size: 58px;
       font-family: 'Great Vibes', cursive;
       color: white;
+    padding:5px;
       
 *{box-sizing:border-box;margin:0px;padding:0px}
 }
@@ -57,5 +58,6 @@ background:#e78585;
         color:white;
         font-family: 'Courier New', Courier, monospace;
         gap:2rem;
+        padding:8px;
     }
 }
