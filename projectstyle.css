@@ -5,7 +5,7 @@
       font-family: 'Great Vibes', cursive;
       color: white;
       
-
+*{box-sizing:border-box;margin:0px;padding:0px}
 }
 .top{
     background-color: black;
